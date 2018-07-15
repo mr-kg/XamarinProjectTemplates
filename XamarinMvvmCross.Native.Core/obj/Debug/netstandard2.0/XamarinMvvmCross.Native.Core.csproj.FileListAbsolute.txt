@@ -1,0 +1,9 @@
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\bin\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.deps.json
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\bin\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.dll
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.csprojAssemblyReference.cache
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.csproj.CoreCompileInputs.cache
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.AssemblyInfoInputs.cache
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.AssemblyInfo.cs
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\bin\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.pdb
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.dll
+E:\Projects\mr-kg-git\XamarinProjectTemplates\XamarinMvvmCross.Native.Core\obj\Debug\netstandard2.0\XamarinMvvmCross.Native.Core.pdb

@@ -1,0 +1,26 @@
+<VSTemplate Version="3.0.0" Type="ProjectGroup" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+<TemplateData>
+    <Name>Xamarin MvvmCross Native Template v6</Name>
+    <Description>Essentials for creating native Xamarin projects with MvvmCross</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>XamarinMvvmCrossNative</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>XamarinMvvmCross_Solution_icon.png</Icon>
+  </TemplateData>
+  <TemplateContent>
+	<ProjectCollection>
+            <ProjectTemplateLink ProjectName="$projectname$.Native.Core">
+                XamarinMvvmCross.Native.Core\Core.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="$projectname$.Native.Model">
+                XamarinMvvmCross.Native.Model\Model.vstemplate
+            </ProjectTemplateLink>
+        </ProjectCollection>
+  </TemplateContent>
+</VSTemplate>

@@ -1,0 +1,45 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>XamarinMvvmCross Native Core</Name>
+    <Description>A core project for MvvmCross Application</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>XamarinMvvmCross.Native.Core</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+    <CreateInPlace>true</CreateInPlace>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="XamarinMvvmCross.Native.Core.csproj" File="XamarinMvvmCross.Native.Core.csproj" ReplaceParameters="true">
+      <Folder Name="Config" TargetFolderName="Config">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationConfig.cs">ApplicationConfig.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="StaticVariables.cs">StaticVariables.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Contracts" TargetFolderName="Contracts">
+        <ProjectItem ReplaceParameters="true" TargetFileName="IApiService.cs">IApiService.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Infrastructure" TargetFolderName="Infrastructure">
+        <Folder Name="Exceptions" TargetFolderName="Exceptions" />
+        <Folder Name="Logger" TargetFolderName="Logger">
+          <ProjectItem ReplaceParameters="true" TargetFileName="CustomLogSink.cs">CustomLogSink.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="LoggerConfig.cs">LoggerConfig.cs</ProjectItem>
+        </Folder>
+      </Folder>
+      <Folder Name="Services" TargetFolderName="Services">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ApiService.cs">ApiService.cs</ProjectItem>
+      </Folder>
+      <Folder Name="ViewModels" TargetFolderName="ViewModels">
+        <ProjectItem ReplaceParameters="true" TargetFileName="BaseViewModel.cs">BaseViewModel.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="SplashScreenViewModel.cs">SplashScreenViewModel.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.cs">App.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AppStart.cs">AppStart.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="GlobalContext.cs">GlobalContext.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
