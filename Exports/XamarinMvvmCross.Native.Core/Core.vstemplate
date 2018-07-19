@@ -35,7 +35,7 @@
       </Folder>
       <Folder Name="ViewModels" TargetFolderName="ViewModels">
         <ProjectItem ReplaceParameters="true" TargetFileName="BaseViewModel.cs">BaseViewModel.cs</ProjectItem>
-        <ProjectItem ReplaceParameters="true" TargetFileName="SplashScreenViewModel.cs">SplashScreenViewModel.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="SplashViewModel.cs">SplashViewModel.cs</ProjectItem>
       </Folder>
       <ProjectItem ReplaceParameters="true" TargetFileName="App.cs">App.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="AppStart.cs">AppStart.cs</ProjectItem>

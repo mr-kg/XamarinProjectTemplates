@@ -6593,24 +6593,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Parallax\\.nuget\\packages\\": {},
+    "C:\\Users\\KeaganG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\XamarinMvvmCross.Native.UWP.csproj",
+      "projectUniqueName": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\XamarinMvvmCross.Native.UWP.csproj",
       "projectName": "XamarinMvvmCross.Native.UWP",
-      "projectPath": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\XamarinMvvmCross.Native.UWP.csproj",
-      "packagesPath": "C:\\Users\\Parallax\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\obj\\",
+      "projectPath": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\XamarinMvvmCross.Native.UWP.csproj",
+      "packagesPath": "C:\\Users\\KeaganG\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native\\XamarinMvvmCross.Native.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Parallax\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KeaganG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6618,7 +6618,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Parallax": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nzfire.pkgs.visualstudio.com/_packaging/Mobility/nuget/v3/index.json": {}
       },

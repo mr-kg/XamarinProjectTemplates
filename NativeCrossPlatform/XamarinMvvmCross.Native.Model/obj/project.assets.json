@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Parallax\\.nuget\\packages\\": {},
+    "C:\\Users\\KeaganG\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\XamarinMvvmCross.Native.Model.csproj",
+      "projectUniqueName": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\XamarinMvvmCross.Native.Model.csproj",
       "projectName": "XamarinMvvmCross.Native.Model",
-      "projectPath": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\XamarinMvvmCross.Native.Model.csproj",
-      "packagesPath": "C:\\Users\\Parallax\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\mr-kg-git\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\obj\\",
+      "projectPath": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\XamarinMvvmCross.Native.Model.csproj",
+      "packagesPath": "C:\\Users\\KeaganG\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\mrkg\\XamarinProjectTemplates\\NativeCrossPlatform\\XamarinMvvmCross.Native.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Parallax\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KeaganG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -200,7 +200,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Parallax": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nzfire.pkgs.visualstudio.com/_packaging/Mobility/nuget/v3/index.json": {}
       },

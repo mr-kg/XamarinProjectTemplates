@@ -32,7 +32,7 @@ namespace XamarinMvvmCross.Native.Droid
 		{
 			
 			// aapt resource value: 0x7F010002
-			public const int myButton = 2130771970;
+			public const int textView1 = 2130771970;
 			
 			static Id()
 			{
@@ -48,7 +48,7 @@ namespace XamarinMvvmCross.Native.Droid
 		{
 			
 			// aapt resource value: 0x7F020002
-			public const int Main = 2130837506;
+			public const int Splash = 2130837506;
 			
 			static Layout()
 			{

@@ -10,7 +10,7 @@ namespace $safeprojectname$
     {
         public void Start(object hint = null)
         {
-            ShowViewModel<SplashScreenViewModel>();
+            ShowViewModel<SplashViewModel>();
         }
     }
 }

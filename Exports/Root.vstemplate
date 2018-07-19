@@ -21,6 +21,12 @@
             <ProjectTemplateLink ProjectName="$projectname$.Native.Model">
                 XamarinMvvmCross.Native.Model\Model.vstemplate
             </ProjectTemplateLink>
+			<ProjectTemplateLink ProjectName="$projectname$.Native.Droid">
+                XamarinMvvmCross.Native.Android\Droid.vstemplate
+            </ProjectTemplateLink>
+			<ProjectTemplateLink ProjectName="$projectname$.Native.iOS">
+                XamarinMvvmCross.Native.iOS\iOS.vstemplate
+            </ProjectTemplateLink>
         </ProjectCollection>
   </TemplateContent>
 </VSTemplate>
